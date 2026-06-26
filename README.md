@@ -274,7 +274,7 @@ TalentLens-India/
 | 3️⃣ | **See it validated and charted in Excel** → [`TalentLens_Analysis.xlsx`](./TalentLens_Analysis.xlsx) |
 | 4️⃣ | **See it as a live filterable dashboard** → Power BI screenshots in [`/Screenshots`](./Screenshots/) |
 | 5️⃣ | **See it as a real consumer product** → Figma mobile app in [`/figma-screens`](./figma-screens/) |
-| 6️⃣ | **Interact with it live** → [Open Figma Prototype →]([YOUR-FIGMA-PROTOTYPE-LINK](https://www.figma.com/proto/WUD9EAkXc0N0lHpNsPUifM/Talentlens?t=IT8rpJ1eJOj0yRSe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2)) |
+| 6️⃣ | **Interact with it live** → [Open Figma Prototype](https://www.figma.com/proto/WUD9EAkXc0N0lHpNsPUifM/TalentLens?node-id=1-2&starting-point-node-id=1%3A2&t=IT8rpJ1eJOj0yRSe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1) | 
 
 ---
 
