@@ -21,7 +21,7 @@
 
 | Resource | Link |
 |---|---|
-| 📱 **Interactive Figma Prototype** | [Open live prototype →](YOUR-FIGMA-PROTOTYPE-LINK) |
+| 📱 **Interactive Figma Prototype** | [Open live prototype →](https://www.figma.com/proto/WUD9EAkXc0N0lHpNsPUifM/Talentlens?t=IT8rpJ1eJOj0yRSe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2) |
 | 🗄️ **SQL Queries (30+ queries)** | [sql_queries.sql](./sql_queries.sql) |
 | 📊 **Dataset (1,000 rows)** | [talentlens_1000.csv](./talentlens_1000.csv) |
 | 📈 **Excel Analysis** | [TalentLens_Analysis.xlsx](./TalentLens_Analysis.xlsx) |
@@ -160,7 +160,7 @@ The **Skills Intelligence** and **Profile** screens are the centrepieces — the
 </tr>
 </table>
 
-🔗 **[Open the live interactive prototype →](YOUR-FIGMA-PROTOTYPE-LINK)**
+🔗 **[Open the live interactive prototype →]([YOUR-FIGMA-PROTOTYPE-LINK](https://www.figma.com/proto/WUD9EAkXc0N0lHpNsPUifM/Talentlens?t=IT8rpJ1eJOj0yRSe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2))**
 
 ---
 
@@ -274,7 +274,7 @@ TalentLens-India/
 | 3️⃣ | **See it validated and charted in Excel** → [`TalentLens_Analysis.xlsx`](./TalentLens_Analysis.xlsx) |
 | 4️⃣ | **See it as a live filterable dashboard** → Power BI screenshots in [`/Screenshots`](./Screenshots/) |
 | 5️⃣ | **See it as a real consumer product** → Figma mobile app in [`/figma-screens`](./figma-screens/) |
-| 6️⃣ | **Interact with it live** → [Open Figma Prototype →](YOUR-FIGMA-PROTOTYPE-LINK) |
+| 6️⃣ | **Interact with it live** → [Open Figma Prototype →]([YOUR-FIGMA-PROTOTYPE-LINK](https://www.figma.com/proto/WUD9EAkXc0N0lHpNsPUifM/Talentlens?t=IT8rpJ1eJOj0yRSe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2)) |
 
 ---
 
@@ -287,10 +287,8 @@ B.E. CSE (Cloud Computing) · Chandigarh University · CGPA 7.61
 | | |
 |---|---|
 | 📧 Email | aasthajoshi890@gmail.com |
-| 🐙 GitHub | [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME) |
+| 🐙 GitHub | [github.com/trewilljo)]([https://github.com/trewilljo)] |
 | 💼 LinkedIn | [linkedin.com/in/aasthajoshi3](https://linkedin.com/in/aasthajoshi3) |
-| 📍 Location | Bikaner, Rajasthan, India |
-
 ---
 
 <div align="center">
