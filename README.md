@@ -287,7 +287,7 @@ B.E. CSE (Cloud Computing) · Chandigarh University · CGPA 7.61
 | | |
 |---|---|
 | 📧 Email | aasthajoshi890@gmail.com |
-| 🐙 GitHub | [github.com/trewilljo)]([https://github.com/trewilljo)] |
+| 🐙 GitHub | [github.com/trewilljo)](https://github.com/trewilljo) |
 | 💼 LinkedIn | [linkedin.com/in/aasthajoshi3](https://linkedin.com/in/aasthajoshi3) |
 ---
 
